@@ -1,7 +1,7 @@
 ## Esse é um Hackathon da plataforma Analytics Vidhya 
   <https://datahack.analyticsvidhya.com>
 
-Afim de adquirir insights para entender melhor os dados,foi feita a _análise exploratória de dados(EDA)_ que é uma das etapas imprescindíveis para uma melhor eficiência dos modelos preditivos. A análise se encontra  no meu repositório: <https://github.com/karinnecristina/Data-Science/tree/master/Black_Friday>
+Afim de adquirir insights para entender melhor os dados,foi feita a _análise exploratória de dados(EDA)_ que é uma das etapas imprescindíveis para uma melhor eficiência dos modelos preditivos. A análise se encontra  no meu repositório: <https://github.com/gustavougarte1/DataScience/tree/9d574b0f2acaa6b2b2653ac92ab0f9325dc14890/Black_Friday>
 
 ## **Problema de negócio:** Previsão de Vendas para Black Friday 
 
